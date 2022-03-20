@@ -7,3 +7,5 @@
 Secara umum semua tipe data bisa dimasukkan ke parameter type. untuk membatasi tipe data dan turunannya
 yang diperbolehkan kita bisa menggunakan keyword extends (<T extends num>) => maka hanya tipe data num
 dan turunannya yang boleh digunakan
+
+#kita bisa melakukan type checking di generic
